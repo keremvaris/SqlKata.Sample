@@ -1,0 +1,1 @@
+# SqlKata.Sample

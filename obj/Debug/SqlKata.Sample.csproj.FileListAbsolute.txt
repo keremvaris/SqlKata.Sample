@@ -1,0 +1,12 @@
+C:\Users\kerem\source\repos\SqlKata.Sample\SqlKata.Sample\bin\Debug\SqlKata.Sample.exe.config
+C:\Users\kerem\source\repos\SqlKata.Sample\SqlKata.Sample\bin\Debug\SqlKata.Sample.exe
+C:\Users\kerem\source\repos\SqlKata.Sample\SqlKata.Sample\bin\Debug\SqlKata.Sample.pdb
+C:\Users\kerem\source\repos\SqlKata.Sample\SqlKata.Sample\bin\Debug\Dapper.dll
+C:\Users\kerem\source\repos\SqlKata.Sample\SqlKata.Sample\bin\Debug\QueryBuilder.dll
+C:\Users\kerem\source\repos\SqlKata.Sample\SqlKata.Sample\bin\Debug\SqlKata.Execution.dll
+C:\Users\kerem\source\repos\SqlKata.Sample\SqlKata.Sample\bin\Debug\Dapper.xml
+C:\Users\kerem\source\repos\SqlKata.Sample\SqlKata.Sample\obj\Debug\SqlKata.Sample.csprojAssemblyReference.cache
+C:\Users\kerem\source\repos\SqlKata.Sample\SqlKata.Sample\obj\Debug\SqlKata.Sample.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\SqlKata.Sample\SqlKata.Sample\obj\Debug\SqlKata.Sample.csproj.CopyComplete
+C:\Users\kerem\source\repos\SqlKata.Sample\SqlKata.Sample\obj\Debug\SqlKata.Sample.exe
+C:\Users\kerem\source\repos\SqlKata.Sample\SqlKata.Sample\obj\Debug\SqlKata.Sample.pdb
